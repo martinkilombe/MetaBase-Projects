@@ -29,7 +29,11 @@ Here's a brief overview of the project goals and KPIs
 
         ●	Total Tax: shows the total tax incurred by the business.
 
+  Revenue dashboard Snippets
 
+![Revenue Dashboard](https://github.com/martinkilombe/MetaBase-Projects/blob/main/Piespace%20Company%20Case%20Study/Revenue1.jpeg)  
+![Revenue Dashboard](https://github.com/martinkilombe/MetaBase-Projects/blob/main/Piespace%20Company%20Case%20Study/Revenue2.jpeg)
+  
   2.  Product Analysis. 
   
         ● Product Rating: Product Rating is a KPI that measures the satisfaction or feedback of customers regarding a specific product. 
