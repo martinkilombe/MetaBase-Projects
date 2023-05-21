@@ -43,6 +43,12 @@ Here's a brief overview of the project goals and KPIs
         ●	Units Sold: Units Sold is a KPI that measures the total number of individual products sold over a specific period. 
 
         ●	Product Performance Index: The product Performance Index is a KPI that ranks products based on their overall performance and success. It is calculated by considering various factors such as sales volume, revenue generated, customer satisfaction, market share, and other relevant metrics. 
+  
+  Product dashboard Snippets
+
+![Revenue Dashboard](https://github.com/martinkilombe/MetaBase-Projects/blob/main/Piespace%20Company%20Case%20Study/Product2.jpeg)  
+![Revenue Dashboard](https://github.com/martinkilombe/MetaBase-Projects/blob/main/Piespace%20Company%20Case%20Study/Product1.jpeg)
+  
     
   3.  Customer Analysis.  
   
