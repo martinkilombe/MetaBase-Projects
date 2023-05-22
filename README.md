@@ -109,5 +109,12 @@ Here's a brief overview of the project goals and KPIs
         ●	Feedback per Plan: Feedback per Plan measures the number of feedback received per pricing plan or service tier. It helps evaluate customer satisfaction and identify any variations in feedback patterns or     experiences across different plans or customer segments.
 
         ●	Rating Distribution: Rating Distribution analyzes the distribution of customer ratings across different categories or score ranges (e.g., 1-5 stars). It provides insights into the distribution of feedback, highlighting areas where customers are highly satisfied or areas that require improvement.
+  
+  
+  Feedback dashboard Snippets
+  
+  ![Invoice Dashboard](https://github.com/martinkilombe/MetaBase-Projects/blob/main/Piespace%20Company%20Case%20Study/Feedback1.jpeg)  
+  ![Invoice Dashboard](https://github.com/martinkilombe/MetaBase-Projects/blob/main/Piespace%20Company%20Case%20Study/Feedback2.jpeg)
+  ![Invoice Dashboard](https://github.com/martinkilombe/MetaBase-Projects/blob/main/Piespace%20Company%20Case%20Study/Feedback3.jpeg)
 
 
