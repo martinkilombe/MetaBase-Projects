@@ -66,6 +66,11 @@ Here's a brief overview of the project goals and KPIs
 
         ●	Click Behavior: This KPI measures user engagement and interaction within a digital platform by analyzing click behavior. It tracks user actions, such as clicks on specific features, links, or content. Click behavior metrics include click-through rates, time spent on different pages, and click patterns. Analyzing click behavior provides insights into user preferences, feature usage, and user experience optimization opportunities.
   
+   Customer dashboard Snippets
+
+![Revenue Dashboard](https://github.com/martinkilombe/MetaBase-Projects/blob/main/Piespace%20Company%20Case%20Study/Customer1.jpeg)  
+![Revenue Dashboard](https://github.com/martinkilombe/MetaBase-Projects/blob/main/Piespace%20Company%20Case%20Study/Customer3.jpeg)
+  
   4. Invoice Analysis. 
   
         ●	Invoice Growth: Invoice Growth measures the percentage increase or decrease in the number of invoices generated over a specific period. 
