@@ -46,8 +46,8 @@ Here's a brief overview of the project goals and KPIs
   
   Product dashboard Snippets
 
-![Revenue Dashboard](https://github.com/martinkilombe/MetaBase-Projects/blob/main/Piespace%20Company%20Case%20Study/Product2.jpeg)  
-![Revenue Dashboard](https://github.com/martinkilombe/MetaBase-Projects/blob/main/Piespace%20Company%20Case%20Study/Product1.jpeg)
+![Product Dashboard](https://github.com/martinkilombe/MetaBase-Projects/blob/main/Piespace%20Company%20Case%20Study/Product2.jpeg)  
+![Product Dashboard](https://github.com/martinkilombe/MetaBase-Projects/blob/main/Piespace%20Company%20Case%20Study/Product1.jpeg)
   
     
   3.  Customer Analysis.  
@@ -68,8 +68,8 @@ Here's a brief overview of the project goals and KPIs
   
    Customer dashboard Snippets
 
-![Revenue Dashboard](https://github.com/martinkilombe/MetaBase-Projects/blob/main/Piespace%20Company%20Case%20Study/Customer1.jpeg)  
-![Revenue Dashboard](https://github.com/martinkilombe/MetaBase-Projects/blob/main/Piespace%20Company%20Case%20Study/Customer3.jpeg)
+![Customer Dashboard](https://github.com/martinkilombe/MetaBase-Projects/blob/main/Piespace%20Company%20Case%20Study/Customer1.jpeg)  
+![Customer Dashboard](https://github.com/martinkilombe/MetaBase-Projects/blob/main/Piespace%20Company%20Case%20Study/Customer3.jpeg)
   
   4. Invoice Analysis. 
   
@@ -86,6 +86,13 @@ Here's a brief overview of the project goals and KPIs
         ●	Invoices per Plan: Invoices per Plan measure the number of invoices generated per pricing plan or service tier.
 
         ●	Invoice Payment by Active and Non-active Subscribers: Invoice Payment by Active and Non-active Subscribers compares the payment behavior of customers with active subscriptions to those with inactive or canceled subscriptions. It helps assess the payment reliability of different customer segments and highlights any differences in payment patterns between active and non-active subscribers.
+  
+   Invoice dashboard Snippets
+  
+  ![Invoice Dashboard](https://github.com/martinkilombe/MetaBase-Projects/blob/main/Piespace%20Company%20Case%20Study/Invoice1.jpeg)  
+  ![Invoice Dashboard](https://github.com/martinkilombe/MetaBase-Projects/blob/main/Piespace%20Company%20Case%20Study/Invoice2.jpeg)
+  ![Invoice Dashboard](https://github.com/martinkilombe/MetaBase-Projects/blob/main/Piespace%20Company%20Case%20Study/Invoice3.jpeg)
+
 
   5. Feedback Analysis.
         
